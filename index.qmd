@@ -1,0 +1,56 @@
+---
+title: "NCAA wrestling scoring is a disaster"
+author:
+  - name: Quang, Greg, and Schuckers
+    orcid: 0000-0002-0760-5497
+    corresponding: true
+    email: steve@steve.com
+    roles:
+      - Investigation
+      - Project administration
+      - Software
+      - Visualization
+    affiliations:
+      - Loyola
+  - name: Quang
+    orcid: 0000-0002-7859-8394
+    corresponding: false
+    roles: []
+    affiliations:
+      - Curvenote
+keywords:
+  - Sports!
+  - Scoring
+abstract: |
+  Some absttract
+plain-language-summary: |
+  NCAA wrestling tournament scoring is a disaster.
+key-points:
+  - Disaster
+  - disaster
+date: last-modified
+bibliography: references.bib
+citation:
+  container-title: Statistics and Data Science in Sports
+number-sections: true
+---
+
+## Introduction
+
+NCAA wrestling scoring is a disaster
+
+## Examples
+
+## Simulaton Results
+
+How often does a wrestler who finished X score less than the wrestler who finished X + 1?
+
+## Proposed new scoring system
+
+## Conclusion
+
+## References {.unnumbered}
+
+:::{#refs}
+
+:::
